@@ -1,7 +1,7 @@
 use true;
 use MooseX::Declare;
 
-#  PODNAME: {{$name}}
+#  PODNAME: Geo::OSM::Routing::Handler::{{$name}}
 # ABSTRACT: [Abstract for {{$name}}]
 
 
